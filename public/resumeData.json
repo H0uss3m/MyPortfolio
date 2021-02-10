@@ -1,0 +1,135 @@
+{
+  "main": {
+    "name": "Houssem Ben Mustapha",
+    "occupation": "Front End Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "portrait.jpg",
+    "bio": "Hi there! I am Houssem! I’am a self taught developer. I’ve been coding for 3 years now. Basically am a physicist ! Yeap a physicist don’t be surprised i have a bachelor of Science in Physics (BPhys) degree and coding was my passion since I was in high school. So after my graduation, i decide to invest in my free time and fulfill my dream so my story of passion to the coding and programming began. I started from zero and I worked  8 hours and plus per day for 18 months to learn fundamentals and increase my skills. After that I’ve take a Full stack JS (MERN Stack) software development training at GOMYCODE Academy, since that I’ve became a developer and succeeded in my professional reorientation. Along the journey I realized that everything can be achieved by passion and hard work. In 2019, i had my first job as a front end developer, since then i’ve been working on a very interesting projects along side freelance projects too.",
+    "contactmessage": "You have a freelance project or job opportunity?",
+    "email": "benmustapha.business@gmail.com",
+    "phone": "+216 25506442",
+    "address": {
+      "street": "El Ihsen Street",
+      "city": "Sousse",
+      "state": "Tunisia",
+      "zip": "4000"
+    },
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/houssem.benmustapha.3",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Mr_BenMustapha",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/houssem-ben-mustapha-00a8b1121/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/husamdev/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/H0uss3m",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "GoMyCode Academy",
+        "degree": "📜 Certificate Of Achievement, Full stack JS ",
+        "graduated": "January 2019",
+        "description": null,
+        "url": "images/gmc.png"
+      },
+      {
+        "school": "University of Sciences of Monastir",
+        "degree": "🎓 Bachelor's Degree, Physics Science",
+        "graduated": "July 2016",
+        "description": "Graduated with First Class Honours",
+        "url": "images/fsm.png"
+      }
+    ],
+    "work": [
+      {
+        "company": "MobilePowered",
+        "title": "Frontend Software developer",
+        "years": "February 2019 - Present",
+        "description": null
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Angular",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "65%"
+      },
+      {
+        "name": "FireBase",
+        "level": "82%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "BBZ-Conseil (React JS)",
+        "category": "",
+        "image": "bbz.png",
+        "url": "bbz.pdf"
+      }
+    ],
+    "clients": [
+      {
+        "src": "images/banque-de-france.png"
+      },
+      {
+        "src": "images/bbz.png"
+      },
+      {
+        "src": "images/loreal.webp"
+      }
+    ]
+  },
+  "quotes": {
+    "quotes": [
+      {
+        "text": "Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.",
+        "user": "Antoine de Saint-Exupery"
+      },
+      {
+        "text": "If my mind can conceive it, and my heart can believe it, then i can achieve it",
+        "user": "Muhammed Ali"
+      }
+    ]
+  }
+}
